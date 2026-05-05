@@ -1,0 +1,28 @@
+{
+  "name": "Shadow — Financial Tracker",
+  "short_name": "Shadow",
+  "description": "Aplikasi pencatatan keuangan pribadi yang simpel dan pribadi",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0D9488",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='36' fill='%230D9488'/><text x='50%25' y='54%25' text-anchor='middle' dominant-baseline='central' font-family='serif' font-size='80' font-weight='700' fill='white'>ب</text></svg>",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='36' fill='%230D9488'/><text x='50%25' y='54%25' text-anchor='middle' dominant-baseline='central' font-family='serif' font-size='80' font-weight='700' fill='white'>ب</text></svg>",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
